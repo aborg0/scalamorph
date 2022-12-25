@@ -1,0 +1,6 @@
+*.scala	text=auto
+*.Rule	text=auto
+*.sbt	text=auto
+*.md	text=auto
+*.conf	text=auto
+*.properties	text=auto
