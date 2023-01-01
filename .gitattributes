@@ -4,3 +4,5 @@
 *.md	text=auto
 *.conf	text=auto
 *.properties	text=auto
+src/main/resources/morphdb_hu.aff text working-tree-encoding=ISO-8859-2
+src/main/resources/morphdb_hu.dic text working-tree-encoding=ISO-8859-2
